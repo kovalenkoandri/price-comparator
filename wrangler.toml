@@ -1,15 +1,8 @@
 name = "plain-moon-5d43"
 main = "src/index.js"
-# compatibility_date = "2023-12-18"
-
-account_id = "f7e1388f84d4a139671b4abd53713385"
 compatibility_date = "2024-01-21"
 compatibility_flags = [ "nodejs_compat" ]
 browser = { binding = "MYBROWSER" }
-# plain-moon-5d43 = { binding = "MYBROWSER" }
-kv_namespaces = [
-{ binding = "BROWSER_KV_DEMO", id = "d85bdaa7b30542838fbd6507fb3ded60", preview_id = "c70e0d8ba1394ee982a457b2ea275ac9"}
-]
 # node_compat = true
 # workers_dev = true
 # Variable bindings. These are arbitrary, plaintext strings (similar to environment variables)
