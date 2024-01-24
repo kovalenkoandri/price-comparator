@@ -8,6 +8,10 @@
     "start": "wrangler dev"
   },
   "devDependencies": {
-    "wrangler": "^3.0.0"
+    "@cloudflare/puppeteer": "^0.0.5",
+    "wrangler": "^3.24.0"
+  },
+  "dependencies": {
+    "qr-image": "^3.2.0"
   }
 }
